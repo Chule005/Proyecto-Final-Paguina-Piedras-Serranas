@@ -814,7 +814,7 @@ p {
      6.SERVICES css
 ===========================*/
 .services-area {
-  background-color: #fffaf6; }
+  background-color: #EAFAF1; }
   @media (max-width: 767px) {
     .services-area {
       padding-top: 75px;
@@ -1603,6 +1603,20 @@ p.form-message.error {
           font-size: 15px;
           color: #fc924b;
           cursor: pointer; }
+
+          .btn-whatsapp {
+               display:block;
+               width:70px;
+               height:70px;
+               color:#fff;
+               position:fixed;
+               left:20px;
+               bottom:20px;
+               border-radius:50%;
+               line-height:80px;
+               text-align:center;
+               z-index:999;
+                        }
 
 
 /*# sourceMappingURL=style.css.map */
